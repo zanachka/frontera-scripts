@@ -1,0 +1,10 @@
+./config-templates/workersettings_tpl.py
+./config-templates/spiderN_tpl.py
+./config-templates/settings_tpl.py
+./config-templates/strategyN_tpl.py
+./config-templates/webservice-scrapy-settings_tpl.py
+./replaceHadoopProperty.py
+./executeInHadoopEnv.sh
+./fabfile.py
+./frontera.py
+./common.py

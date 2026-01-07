@@ -1,0 +1,5 @@
+./cluster-bootstrap/replaceHadoopProperty.py
+./cluster-bootstrap/executeInHadoopEnv.sh
+./cluster-bootstrap/fabfile.py
+./cluster-bootstrap/frontera.py
+./cluster-bootstrap/common.py
